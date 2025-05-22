@@ -1,5 +1,6 @@
 📄 Auto ML Prediction Report
 Project Overview
+
 This report summarizes the outcomes of an automated machine learning process using a custom Streamlit web app. The application allows business users to:
 
 Upload any structured dataset (CSV format)
